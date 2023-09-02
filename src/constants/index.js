@@ -121,7 +121,7 @@ import {
       iconBg: "#fff",
       date: "July 2023 - August 2023",
       points: [
-        "Далеко-далеко за словесными горами в стране гласных и согласных живут рыбные тексты. Свое свой журчит использовало, наш заманивший текстов даже имеет единственное, семантика правилами имени! Переписали за предупреждал, составитель на берегу текст ведущими!"
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis fugit distinctio nam aut tempora? Dolorem, dicta nemo ipsa facere hic praesentium quas libero tempore sapiente quod expedita placeat sequi quia molestias. Mollitia possimus consequuntur, totam minus quisquam vitae in molestiae cum quos earum illo cupiditate distinctio magnam quaerat ratione rerum optio. Repudiandae odio sint dolore autem corporis similique molestias possimus.!"
       ],
     },
 
@@ -132,7 +132,7 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
-          "Далеко-далеко за словесными горами в стране гласных и согласных живут рыбные тексты. Свое свой журчит использовало, наш заманивший текстов даже имеет единственное, семантика правилами имени! Переписали за предупреждал, составитель на берегу текст ведущими!"
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis fugit distinctio nam aut tempora? Dolorem, dicta nemo ipsa facere hic praesentium quas libero tempore sapiente quod expedita placeat sequi quia molestias. Mollitia possimus consequuntur, totam minus quisquam vitae in molestiae cum quos earum illo cupiditate distinctio magnam quaerat ratione rerum optio. Repudiandae odio sint dolore autem corporis similique molestias possimus.!"
       ],
     },
     {
@@ -142,7 +142,7 @@ import {
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
-        "Далеко-далеко за словесными горами в стране гласных и согласных живут рыбные тексты. Свое свой журчит использовало, наш заманивший текстов даже имеет единственное, семантика правилами имени! Переписали за предупреждал, составитель на берегу текст ведущими!"
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis fugit distinctio nam aut tempora? Dolorem, dicta nemo ipsa facere hic praesentium quas libero tempore sapiente quod expedita placeat sequi quia molestias. Mollitia possimus consequuntur, totam minus quisquam vitae in molestiae cum quos earum illo cupiditate distinctio magnam quaerat ratione rerum optio. Repudiandae odio sint dolore autem corporis similique molestias possimus.!"
       ],
     },
     {
@@ -152,7 +152,7 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
-        "Далеко-далеко за словесными горами в стране гласных и согласных живут рыбные тексты. Свое свой журчит использовало, наш заманивший текстов даже имеет единственное, семантика правилами имени! Переписали за предупреждал, составитель на берегу текст ведущими!"
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis fugit distinctio nam aut tempora? Dolorem, dicta nemo ipsa facere hic praesentium quas libero tempore sapiente quod expedita placeat sequi quia molestias. Mollitia possimus consequuntur, totam minus quisquam vitae in molestiae cum quos earum illo cupiditate distinctio magnam quaerat ratione rerum optio. Repudiandae odio sint dolore autem corporis similique molestias possimus.!"
       ],
     },
   ];
@@ -201,12 +201,12 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Shahkzodjon98/Car_Showcase",
     },
 
 
     {
-      name: "Job IT",
+      name: "Nike",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. A architecto corporis corrupti? Inventore, eos quis voluptatibus illum facilis ipsa. Ipsam aut ex quod quam cupiditate?.",
       tags: [
@@ -221,7 +221,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Shahkzodjon98/Nike",
     },
 
 
@@ -241,7 +241,7 @@ import {
         },
       ],
       image: turkona_blog,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Shahkzodjon98/turkona-cooking",
     },
     
   ];

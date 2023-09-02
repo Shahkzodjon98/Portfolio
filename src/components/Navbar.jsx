@@ -1,4 +1,3 @@
-import React from 'react'
 import { useEffect } from 'react';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
@@ -20,7 +19,7 @@ const Navbar = () => {
       window.scrollTo(0, 0);
       }}>
           {/* <img src={logo} alt="logo" className='w-30 h-20 object-contain' /> */}
-          <p className=" text-primary text-xl font-bold cursor-pointer flex">Shakhzod&nbsp;<span className='sm:block hidden'>| Frontend</span></p>
+          <p className="  text-tertiary text-2xl font-bold cursor-pointer flex">Shakhzod&nbsp;<span className='sm:block hidden'>| Frontend</span></p>
         </Link>
         <ul className=" list-none hidden sm:flex flex-row gap-10">
           {navLinks.map((link) => (
