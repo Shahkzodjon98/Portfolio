@@ -18,7 +18,7 @@ const Hero = () => {
             </p>
           </div>
         </div>
-        <ComputersCanvas />
+        {/* <ComputersCanvas /> */}
 
 
         <div className=" absolute xs:bottom-3 bottom-16 w-full flex justify-center items-center">
